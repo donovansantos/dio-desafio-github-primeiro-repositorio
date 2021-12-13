@@ -1,0 +1,2 @@
+link do download do GIT : https://git-scm.com/downloads
+O Git é uma terminal de comandos para trabalhar em conjunto com o github
